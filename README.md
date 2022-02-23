@@ -1,4 +1,4 @@
-<code>👷 Speciality: Software engineer / Frontend</code><br>
+<code>👷 Speciality: Software engineer / Frontend at [Movavi](https://movavi.com)</code><br>
 <!-- <code>💡 [Skills](SKILLS.md)</code> -->
 <!-- <code>🧻 [Projects](PROJECTS.md)</code> -->
 <!-- <code>📢 [Public talks: 0](TALKS.md)</code> -->
@@ -6,5 +6,5 @@
 <code>🧑‍💻 Languages: JavaScript</code>
 <code>📦 Tech stack: VueJS</code>
 <!-- <code>🪙 [Rates](RATES.md)</code><br> -->
-<code>💬 telegram: [@domstrueboy](https://telegram.me/domstrueboy)</code>
+<code>💬 telegram: [@domstrueboy](https://telegram.me/domstrueboy)</code><br>
 <code>📫 [domstrueboy@yandex.ru](mailto:domstrueboy@yandex.ru)</code>
