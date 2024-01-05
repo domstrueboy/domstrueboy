@@ -1,4 +1,4 @@
-<code>👷 Speciality: Software engineer / Frontend at [Movavi](https://movavi.com)</code><br>
+<code>👷 Speciality: Software engineer / Frontend</code><br>
 <!-- <code>💡 [Skills](SKILLS.md)</code> -->
 <!-- <code>🧻 [Projects](PROJECTS.md)</code> -->
 <!-- <code>📢 [Public talks: 0](TALKS.md)</code> -->
